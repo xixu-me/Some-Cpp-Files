@@ -1,4 +1,4 @@
-// Copyright (c) 2023 Xi Xu
+// Copyright (c) 2023 Xi Xu, All rights reserved.
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 #include <bits/stdc++.h>
