@@ -1,0 +1,4 @@
+add(23, 45)
+add(20, sub(13, 10))
+add(sub(neg(4.6), 12), muti(doubleMe(2.4), 5))
+div(54, add(-3, sub(9, 3)))

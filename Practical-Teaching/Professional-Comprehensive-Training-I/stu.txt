@@ -1,0 +1,4 @@
+1001 YCX male   100
+1002 WKQ female 99
+1003 SYF male   1000
+1004 XCY female 0
