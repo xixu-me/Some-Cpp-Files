@@ -1,4 +1,4 @@
-// Copyright (c) 2023 徐丞烨，王凯钦，宋析峰，杨崇新
+// Copyright (c) 2023 Xi Xu
 // SPDX-License-Identifier: GPL-3.0-or-later
 
 #include <bits/stdc++.h>
